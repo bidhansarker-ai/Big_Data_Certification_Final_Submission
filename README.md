@@ -1,4 +1,4 @@
-# Regression Model Comparison Project
+# CIND820---Big-Data-Analytics-Project-Course-Workflow
 
 This project aims to compare the performance of various regression models on a given dataset. The goal is to find the model that provides the best predictive accuracy for the target variable.
 
