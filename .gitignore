@@ -1,0 +1,17 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_meta
+*.nbconvert.ipynb
+
+# Output of Jupyter Notebook
+*.ipynb
+*.html
+*.py
+
+# Temporary files
+.ipynb_checkpoints/
+__pycache__/
+
+# Virtual environment
+venv/
