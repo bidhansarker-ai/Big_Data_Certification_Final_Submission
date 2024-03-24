@@ -21,7 +21,7 @@ The dataset used in this project contains [description of the dataset].
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/NoManNayeem/CIND820---Big-Data-Analytics-Project-Course-Workflow.git
+    git clone https://github.com/bidhansarker-ai/Big_Data_Certification_Final_Submission.git
 ```
 
 2. Navigate to the project directory:
